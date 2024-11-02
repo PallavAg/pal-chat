@@ -498,6 +498,6 @@ If you want to add a new translation, read this [document](./docs/translation.md
   <img src="https://contrib.rocks/image?repo=ChatGPTNextWeb/ChatGPT-Next-Web" />
 </a>
 
-## LICENSE
+## LICENSE 
 
 [MIT](https://opensource.org/license/mit/)
